@@ -1,0 +1,5 @@
+node_modules
+dist
+.parcel-cache
+.DS_Store
+#DS_Store là một loại tệp tự động thêm vào trên MAC, loại bỏ nó.
